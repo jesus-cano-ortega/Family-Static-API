@@ -1,15 +1,9 @@
-<p align="center">
-	<img
-		width="300"
-		alt="4Geeks Academy"
-		src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/background_art.jpg?raw=true">
+# <img src="https://github.com/jesus-cano-ortega/js-introduction-exercises/blob/main/assets/resources/img/face.png" width="45" alt="Personal Logo"> Family Static API
+
+<p>
+  <a href="https://silver-zebra-yvuvil9a.ws-eu17.gitpod.io/"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
+  </a>
 </p>
-
-
-<h1 align="center">Welcome to 4Geeks Academy</h1>
-
-
-<h3 align="center">&lt;Family Static API&gt;</h3>
 
 ## Content
 
